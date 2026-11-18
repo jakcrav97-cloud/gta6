@@ -1,0 +1,9 @@
+title: GTA 6 Launch Guides
+description: Unofficial, sourced answers to GTA 6 launch questions. Every answer links its source.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
