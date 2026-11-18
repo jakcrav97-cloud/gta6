@@ -15,6 +15,7 @@ Every published guide answers one question. Each answer below is the page's firs
 - [What time does GTA 6 unlock?](guides/gta-6-unlock-time.md) — GTA 6 unlocks at midnight local time on 19 November 2026, in all regions, on both PS5 and Xbox Series X|S.
 - [Is GTA 6 out on 18 November?](guides/gta-6-out-18-november.md) — No: GTA 6 comes out on 19 November 2026 in every region, at midnight local time, even though a few store pages show 18 November.
 - [Can you play GTA 6 early with the New Zealand trick?](guides/gta-6-new-zealand-trick.md) — Whether changing your region lets you play GTA 6 early is not confirmed yet; what is confirmed is that the launch starts in New Zealand at 12:00 a.m. NZDT on 19 November 2026.
+- [Is GTA 6 out yet?](guides/gta-6-out-yet.md) — GTA 6 is out once it is midnight on 19 November 2026 where you live: it unlocks at midnight local time in every region, in a rolling launch that starts in New Zealand at 12:00 a.m. NZDT.
 
 ## Price and editions
 - [How much is GTA 6 in the UK?](guides/gta-6-price-uk.md) — GTA 6 costs £69.99 for the Standard Edition and £89.99 for the Ultimate Edition in the UK.
@@ -35,6 +36,9 @@ Every published guide answers one question. Each answer below is the page's firs
 - [How many GB is GTA 6?](guides/gta-6-file-size.md) — GTA 6 needs up to 212 GB of free space to pre-load, depending on your device, according to Rockstar's pre-load FAQ.
 - [What languages is GTA 6 in?](guides/gta-6-languages.md) — On PlayStation, GTA 6 has English audio only, with on-screen text in 12 listed languages; the Xbox store shows 13 supported languages but does not name them.
 
+## Updates
+- [Does GTA 6 have a day one update?](guides/gta-6-day-one-update.md) — A GTA 6 day-one update is not confirmed yet.
+
 ## Performance
 - [Is GTA 6 60fps?](guides/gta-6-fps.md) — A 60fps mode for GTA 6 is not confirmed yet; Rockstar says the game targets 30 frames per second on PS5 and Xbox Series X|S.
 - [What does PS5 Pro do for GTA 6?](guides/gta-6-ps5-pro.md) — On PS5 Pro, GTA 6 gets sharper image clarity through PlayStation Spectral Super Resolution (PSSR) and ray-traced shadows, which are only on PS5 Pro.
@@ -48,6 +52,9 @@ Every published guide answers one question. Each answer below is the page's firs
 - [Who are the main characters in GTA 6?](guides/gta-6-main-characters.md) — The main characters in GTA 6 are Jason Duval and Lucia Caminos.
 - [How big is the GTA 6 map?](guides/gta-6-map-size.md) — The size of the GTA 6 map is not confirmed yet.
 - [How long is GTA 6?](guides/gta-6-how-long-to-beat.md) — How long GTA 6 takes to beat is not confirmed yet.
+
+## Reviews
+- [What are the GTA 6 review scores?](guides/gta-6-review-scores.md) — As of 18 November 2026 at about 18:00 UK time, GTA 6 has an OpenCritic Top Critic Average of 99 from 88 critic reviews and a Metacritic PS5 Metascore of 99; both are snapshots that change as reviews are added.
 
 ---
 
